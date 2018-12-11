@@ -4,4 +4,3 @@ def fart(name="sunny", action="eat", item="pizza"):
 
 fart()
 fart("sweety", "likes", "pizza")
-
