@@ -1,4 +1,4 @@
-
+# Program to check age
 def hii(name, age):
     if age > 23:
         print(name + " Welcome to Python Tutorials" + "\tYour age is", age, "\n")

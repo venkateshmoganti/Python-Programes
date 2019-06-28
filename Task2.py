@@ -1,3 +1,4 @@
+# Program for creating a multiplication table for any number
 def multiply(n):
     i = 1
     while i < 11:

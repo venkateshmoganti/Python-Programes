@@ -1,3 +1,4 @@
+# Add numbers which can be divided by 3 & 5 from 1 to 100
 def task():
     total = 0
     b = []

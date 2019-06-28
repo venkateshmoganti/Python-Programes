@@ -1,3 +1,4 @@
+# Printing the values
 def fart(name="sunny", action="eat", item="pizza"):
     print(name, action, item)
 
